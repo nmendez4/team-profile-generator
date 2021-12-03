@@ -1,0 +1,28 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "app used to generate a team profile",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nmendez4/team-profile-generator"
+    },
+    "author": "Nicholas Mendez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nmendez4/team-profile-generator/issues"
+    },
+    "homepage": "https://github.com/nmendez4/team-profile-generator",
+    "devDependencies": {
+        "jest": "^27.4.3"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.0"
+    }
+}
