@@ -27,6 +27,8 @@ In order to use this application please have VS code, node and inquirer installe
 ### Screenshots
 ![HTML screenshot](./assets/generatedHTMLscreenshot.png)
 This is an HTML example of the output after running the script
+![Video Overview Link]
+https://drive.google.com/file/d/1XIcrVL2viJRmIOjEC11aOrzFU8EM5VnB/view
 
 ## Built With
 
@@ -49,8 +51,8 @@ and run `npm run test` from the command line.
 If you have any questions about the repo, please [open an issue](https://github.com/nmendez4/https://github.com/nmendez4/team-profile-generator/issues) or contact me via email at nmendez6594@gmail.com. You can find more of my work on my GitHub, [nmendez4](https://github.com/nmendez4/).
   
 ## Issues
-* [![Issues](https://img.shields.io/github/issues/nmendez4/https://github.com/nmendez4/team-profile-generator)](https://github.com/nmendez4/https://github.com/nmendez4/team-profile-generator/issues) 
+* [Issues](https://github.com/nmendez4/https://github.com/nmendez4/team-profile-generator/issues) 
 
-* [![Issues](https://img.shields.io/github/contributors/nmendez4/https://github.com/nmendez4/team-profile-generator)](https://github.com/nmendez4/https://github.com/nmendez4/team-profile-generator/graphs/contributors) 
+* [Issues](https://github.com/nmendez4/https://github.com/nmendez4/team-profile-generator/graphs/contributors) 
 
   
