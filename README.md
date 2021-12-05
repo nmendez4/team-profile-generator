@@ -25,7 +25,7 @@ In order to run this application please install: VS Code, node, and inquirer, an
 In order to use this application please have VS code, node and inquirer installed. You may then download the application from my GitHub repo. After downloading each of the above, you may run the application using node index, then fill out the required areas prompted by the script. 
   
 ### Screenshots
-![HTML screenshot](N/A)
+![HTML screenshot](./assets/generatedHTMLscreenshot.png)
 This is an HTML example of the output after running the script
 
 ## Built With
